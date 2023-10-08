@@ -1,4 +1,4 @@
-##Hand-written Number Classification
+
 This project focuses on implementing a Handwritten Digit Recognition system using a Neural Network. The system is capable of detecting scanned images of handwritten digits. It utilizes the popular MNIST dataset for training and evaluation.
 It's features are:
 
